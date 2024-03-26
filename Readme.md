@@ -1,4 +1,7 @@
 # "Papers Please" citation generator 
+# Gif and Animation edition
+
+# Animation Addition WIP
 
 A python script to generate citation slips from "Papers Please" game as a PNG file.
 
